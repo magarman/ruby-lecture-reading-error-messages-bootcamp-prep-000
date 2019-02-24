@@ -1,4 +1,1 @@
-"hello world"
-
-"hello_world"
-end
+hello world = "hello world"
